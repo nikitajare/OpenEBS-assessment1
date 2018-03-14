@@ -1,6 +1,6 @@
 Commands to run the app
 
-    1.Clone the repo
+    1.Clone the git repository.
 
     2.Run all the yaml files through this command on terminal.
       (Check if pip is installed in the system)
